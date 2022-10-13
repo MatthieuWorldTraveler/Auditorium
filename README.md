@@ -1,2 +1,2 @@
 # Auditorium
- 2nd game playing with sound ! fun to make
+ 2nd game created during my formation : playing with sound ! fun to make
